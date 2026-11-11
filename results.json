@@ -1,0 +1,17 @@
+{
+ "n": 9721,
+ "K_flagged_each": 2826,
+ "both": 1485,
+ "rules_only": 1341,
+ "if_only": 1341,
+ "jaccard": 0.356,
+ "share_of_IF_flags_also_flagged_by_rules": 0.525,
+ "share_of_each_rule_caught_by_IF": {
+  "R_delay": 0.669,
+  "R_neg": 0.614,
+  "R_high": 0.381
+ },
+ "seed_stability_spearman": 0.9939,
+ "seed_stability_topK_overlap": 0.968,
+ "top200_share_flagged_by_rules": 0.695
+}
